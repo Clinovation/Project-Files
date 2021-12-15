@@ -7,3 +7,7 @@ The goal of the project is to facilitate health facilities in the midst of pande
 ● How to design a friendly UI and UX for non-tech savvy people?
 
 ● How to maintain the app working in offline mode, because we are expecting limited internet connectivity in those cities.
+
+# KELOMPOK 3 HOSPITAL MANAGEMENT SYSTEM
+● Samuel I.J
+
