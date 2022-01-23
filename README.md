@@ -22,7 +22,7 @@ The goal of the project is to facilitate health facilities in the midst of pande
 
 ● ERD : https://app.diagrams.net/#G1OEB6VQYP8oNqWHZWKNYZOMBbo0imsWE5
 
-● DbDiagram : https://dbdiagram.io/d/61b060e88c901501c0e625a2
+● DbDiagram : https://dbdiagram.io/d/61ea83d37cf3fc0e7c501d60
 
 ● Figma : https://www.figma.com/file/oovBbrSS9yzw4tUMNXJetO/Hospital-Management-System?node-id=6%3A2
 
